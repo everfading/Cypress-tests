@@ -1,0 +1,40 @@
+{
+    "articles": [
+        {
+            "slug": "pierwszy-artykul-wzcwe4",
+            "title": "pierwszy artykul",
+            "description": "This is a description",
+            "body": "This is a body of the article",
+            "createdAt": "2021-12-09T15:52:55.160Z",
+            "updatedAt": "2021-12-09T15:52:55.160Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 102,
+            "author": {
+                "username": "everfading",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "drugi-artykul-1mb1gl",
+            "title": "drugi atykul",
+            "description": "This is a description",
+            "body": "This is a body of the article",
+            "createdAt": "2021-12-09T15:52:48.855Z",
+            "updatedAt": "2021-12-09T15:52:48.855Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 10,
+            "author": {
+                "username": "everfading",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        }
+        
+    ],
+    "articlesCount": 44
+}

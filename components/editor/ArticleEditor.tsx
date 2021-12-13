@@ -118,7 +118,7 @@ export default function makeArticleEditor(isnew: boolean = false) {
                     <input
                       className="form-control"
                       type="text"
-                      placeholder="What's this article about?"
+                      placeholder="Description"
                       value={posting.description}
                       onChange={handleDescription}
                     />
